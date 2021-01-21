@@ -4,3 +4,8 @@
 
 ## 현재까지 배운 기술:
 ### Java (2021/01/11)
+    클래스 개념시작(01/21)
+### git
+    기본적인 명령어(git init, commit, etc..)
+### github
+    어떻게 push, pull하는지
